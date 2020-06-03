@@ -6,15 +6,15 @@
 ## Points of Contact
 Any questions or concerns about, conduct, process, development, please reach out to one of the following team members.
 
-- Dominic Magnifico (@magnificode) - Front-End Developer Team Lead
+- Dominic Magnifico (@magnificode) - Team Lead
 - Dale (@racedale) - Project Manager
 
 ## Objectives
 
 ## Helpful Links
-Trello :: https://trello.com/invite/b/d1sguaj6/866ce39378871b1dcf4966ed687baff9/rebuild-black-business-frontend-dev
-Github Org :: https://github.com/Rebuild-Black-Business
-Figma :: https://www.figma.com/file/Lo1ZcBOO9t4QRbX2I0PwBQ/RBB?node-id=0%3A1
+- Trello :: https://trello.com/invite/b/d1sguaj6/866ce39378871b1dcf4966ed687baff9/rebuild-black-business-frontend-dev
+- Github Org :: https://github.com/Rebuild-Black-Business
+- Figma :: https://www.figma.com/file/Lo1ZcBOO9t4QRbX2I0PwBQ/RBB?node-id=0%3A1
 
 ## Responsibilities
 Front-end developer responsibilites within the org include the following:
