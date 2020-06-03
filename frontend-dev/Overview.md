@@ -7,9 +7,7 @@
 Any questions or concerns about, conduct, process, development, please reach out to one of the following team members.
 
 - Dominic Magnifico (@magnificode) - Team Lead
-- Dale (@racedale) - Project Manager
-
-## Objectives
+- Dale (@racedale) - Team Lead / Project Manager
 
 ## Helpful Links
 - Trello :: https://trello.com/invite/b/d1sguaj6/866ce39378871b1dcf4966ed687baff9/rebuild-black-business-frontend-dev
