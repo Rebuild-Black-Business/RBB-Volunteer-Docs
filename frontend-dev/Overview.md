@@ -11,6 +11,7 @@ Any questions or concerns about, conduct, process, development, please reach out
 
 ## Helpful Links
 - Trello :: https://trello.com/invite/b/d1sguaj6/866ce39378871b1dcf4966ed687baff9/rebuild-black-business-frontend-dev
+- Miro :: https://miro.com/welcome/W1yeV8rQH7jAR55pwkJiRNDhjtxZsD67sX5T3zuvQ1PsUS97Lo9sSaZHnqy0HG02
 - Github Org :: https://github.com/Rebuild-Black-Business
 - Figma :: https://www.figma.com/file/Lo1ZcBOO9t4QRbX2I0PwBQ/RBB?node-id=0%3A1
 
