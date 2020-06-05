@@ -6,7 +6,8 @@
 ## Points of Contact
 Any questions or concerns about, conduct, process, design, please reach out to one of the following team members:
 
-- Neil Shapiro (@Sorion) - Design Lead
+- Neil Shapiro (@Sorion) - Front End Design Lead
+- Ashtine Tapanes (@ashtine tapanes) - Front End PM
 
 ## Helpful Links
 - Trello :: https://trello.com/invite/b/epcAqFVo/46b9983a15027c2881a4f09f17d6b162/design
