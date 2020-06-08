@@ -1,4 +1,4 @@
-# Front-End Developers
+# Front-End Designers
 
 ## Required Reading
 [Code of Conduct](../Code_Of_Conduct.md)
@@ -6,6 +6,8 @@
 ## Points of Contact
 Any questions or concerns about, conduct, process, design, please reach out to one of the following team members:
 
+- Eva Wong (@evawong) - Front End Design Lead
+- Jamila Harbin (@Mila Harbin) - Front End Design Lead
 - Neil Shapiro (@Sorion) - Front End Design Lead
 - Ashtine Tapanes (@ashtine tapanes) - Front End PM
 
