@@ -1,22 +1,25 @@
 # Front-End Designers
 
 ## Required Reading
+
 [Code of Conduct](../Code_Of_Conduct.md)
 
 ## Points of Contact
+
 Any questions or concerns about, conduct, process, design, please reach out to one of the following team members:
 
-- Eva Wong (@evawong) - Front End Design Lead
 - Jamila Harbin (@Mila Harbin) - Front End Design Lead
 - Neil Shapiro (@Sorion) - Front End Design Lead
 - Ashtine Tapanes (@ashtine tapanes) - Front End PM
 
 ## Helpful Links
+
 - Trello :: https://trello.com/invite/b/epcAqFVo/46b9983a15027c2881a4f09f17d6b162/design
 - Figma :: https://www.figma.com/file/Lo1ZcBOO9t4QRbX2I0PwBQ/RBB?node-id=0%3A1
 - Github Org :: https://github.com/Rebuild-Black-Business
 
 ## Responsibilities
+
 Front-end Designer responsibilites within the org include the following:
 
 - Development of the Figma document
